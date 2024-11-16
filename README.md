@@ -1,4 +1,4 @@
-# **Geodata Science SSE Brazil**
+# **Geodata Science - Geophysics in the South-Southeastern Brazil**
 ## An Undergraduate Integrative Project in Data Science and Software Engineering at the Virtual University of the State of São Paulo (UNIVESP)
 
 This repository was initially created as a requirement for the Data Science and Software Engineering undergraduate program at the Virtual University of the State of São Paulo (UNIVESP).
