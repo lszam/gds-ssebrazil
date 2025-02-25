@@ -1,7 +1,7 @@
 # **Geodata Science - Geophysics**
 
 ## Repository
-A repository of gravity data and codes for research in terrestrial data concatenation and gravity data processing 
+Data and codes for research in terrestrial data concatenation and gravity data processing 
 
 ## Motivation
 This repository was initially created as a requirement for the Data Science and Software Engineering undergraduate program at the Virtual University of the State of São Paulo (UNIVESP).
